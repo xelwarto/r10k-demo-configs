@@ -4,5 +4,4 @@ forge "http://forge.puppetlabs.com"
 #mod "puppetlabs/stdlib"
 
 mod "xelwarto/test2",
-  :git => "git@github.com:xelwarto/r10k-demo-modules.git",
-  :path => 'blah'
+  :git => "git@github.com:xelwarto/r10k-demo-modules.git"
